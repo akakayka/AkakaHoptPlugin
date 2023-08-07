@@ -1,0 +1,6 @@
+{
+  "GroupPermissions": {
+    "police": {
+      "permissions": [ "police1" ]
+  }
+}
